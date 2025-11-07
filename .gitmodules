@@ -1,0 +1,4 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/loystonpais/KernelSU-Next.git
+	branch = v3.0.0-susfs-v2.0.0
